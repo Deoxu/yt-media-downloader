@@ -1,4 +1,14 @@
 # Sobre
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-purple)
+![yt-dlp](https://img.shields.io/badge/Download-yt--dlp-red)
+![FFmpeg](https://img.shields.io/badge/Converter-FFmpeg-orange)
+![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey)
+![OS](https://img.shields.io/badge/OS-Windows-blue)
+![Architecture](https://img.shields.io/badge/Architecture-MVC%2FLayers-informational)
+![Docs](https://img.shields.io/badge/Docs-Complete-brightgreen)
+
+
 
 Estou desenvolvendo essa aplicação para aprender mais sobre Python e ajudar pessoas que necessitam de um aplicativo para baixar músicas ou vídeos, sem a inconveniência de múltiplos pop-ups.
 

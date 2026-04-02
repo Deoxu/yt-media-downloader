@@ -6,6 +6,16 @@ Os diagramas representam visualmente o funcionamento da aplicação, facilitando
 
 ---
 
+## Diagrama de Classes
+
+[🔗 Ver no GitHub](https://github.com/Deoxu/yt-media-downloader/blob/master/docs/diagrams/class-diagram.png)
+
+<p align="center">
+  <img src="./class-diagram.png" width="400"/>
+</p>
+
+---
+
 ## Diagrama de Sequência – Download
 
 [🔗 Ver no GitHub](https://github.com/Deoxu/yt-media-downloader/blob/master/docs/diagrams/sequence-download.png)
@@ -31,7 +41,7 @@ Os diagramas representam visualmente o funcionamento da aplicação, facilitando
 [🔗 Ver no GitHub](https://github.com/Deoxu/yt-media-downloader/blob/master/docs/diagrams/use-case.png)
 
 <p align="center">
-  <img src="./use-case.png" width="700"/>
+  <img src="./use-case.png" width="400"/>
 </p>
 
 ---

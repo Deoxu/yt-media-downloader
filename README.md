@@ -2,6 +2,8 @@
 
 Estou desenvolvendo essa aplicação para aprender mais sobre Python e ajudar pessoas que necessitam de um aplicativo para baixar músicas ou vídeos, sem a inconveniência de múltiplos pop-ups.
 
+![YouTube Downloader](https://i.ibb.co/pjtCQKtP/youtubedownloader.png)
+
 ## Instruções de Utilização
 
 1. Certifique-se de que o [FFmpeg](https://www.ffmpeg.org/download.html) está baixado e localizado na raiz do seu HD (ex.: `C:\`). Clique [aqui](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip) para fazer o download.
@@ -24,7 +26,7 @@ Estou desenvolvendo essa aplicação para aprender mais sobre Python e ajudar pe
         source ~/.bashrc
         ```
 
-3. Para rodar o código da aplicação em sua IDE favorita, instale as seguintes bibliotecas:
+3. Para rodar o código da aplicação na IDE de sua preferência, instale as seguintes bibliotecas:
 
 - **yt_dlp**  
   ```bash

@@ -2,27 +2,44 @@
 
 Esta pasta contém os diagramas utilizados na modelagem e documentação do sistema.
 
-Os diagramas foram desenvolvidos com o objetivo de representar visualmente o funcionamento da aplicação, facilitando a compreensão da arquitetura, dos fluxos e das interações entre os componentes.
+Os diagramas representam visualmente o funcionamento da aplicação, facilitando a compreensão da arquitetura, dos fluxos e das interações entre os componentes.
 
 ---
 
-## Estrutura
+## Diagrama de Sequência – Download
 
-- **sequence-download.png**  
-  Diagrama de sequência do processo de download de vídeos.
+[🔗 Ver no GitHub](https://github.com/Deoxu/yt-media-downloader/blob/master/docs/diagrams/sequence-download.png)
 
-- **sequence-select-directory.png**  
-  Diagrama de sequência da seleção do diretório de download.
+<p align="center">
+  <img src="./sequence-download.png" width="700"/>
+</p>
 
-- **use-case.png**  
-  Diagrama de casos de uso do sistema.
+---
+
+## Diagrama de Sequência – Seleção de Diretório
+
+[🔗 Ver no GitHub](https://github.com/Deoxu/yt-media-downloader/blob/master/docs/diagrams/sequence-select-directory.png)
+
+<p align="center">
+  <img src="./sequence-select-directory.png" width="700"/>
+</p>
+
+---
+
+## Diagrama de Casos de Uso
+
+[🔗 Ver no GitHub](https://github.com/Deoxu/yt-media-downloader/blob/master/docs/diagrams/use-case.png)
+
+<p align="center">
+  <img src="./use-case.png" width="700"/>
+</p>
 
 ---
 
 ## Ferramentas utilizadas
 
-- PlantUML – para criação dos diagramas de sequência  
-- draw.io – para diagramas de caso de uso  
+- PlantUML – criação dos diagramas de sequência  
+- draw.io – criação do diagrama de casos de uso  
 
 ---
 
